@@ -16,9 +16,9 @@ public class GameRSP extends JFrame{ //JFrame을 상속하는 GameRSP 클래스
 	
 	//가위, 바위, 보에 해당하는 이미지 아이콘 배열
 	ImageIcon[] imgIcons = {
-			new ImageIcon("C:/Users/gram/OneDrive - 한국외국어대학교/바탕 화면/Assets/kawi.jpg"),
-			new ImageIcon("C:/Users/gram/OneDrive - 한국외국어대학교/바탕 화면/Assets/bawi.jpg"),
-			new ImageIcon("C:/Users/gram/OneDrive - 한국외국어대학교/바탕 화면/Assets/bo.jpg")
+			new ImageIcon("/Assets/kawi.jpg"),
+			new ImageIcon("/Assets/bawi.jpg"),
+			new ImageIcon("/Assets/bo.jpg")
 			
 	};
 	
